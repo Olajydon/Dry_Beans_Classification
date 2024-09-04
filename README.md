@@ -1,6 +1,6 @@
 # Automating the Dry Beans Classification Process
 # Aim
-1)	To use data mining techniques to automate the process of grading and classifying dry beans 
+1)	To use data mining techniques to automate the process of grading and classifying dry beans
 2)	To use two classification algorithms on the data set, evalaute each algorithm performance and consider other methods of improving performance
 # Data Set
 The dry beans data set used for this work was obtained from the uci machine learning repository [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00602/)
